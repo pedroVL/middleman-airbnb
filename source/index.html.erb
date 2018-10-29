@@ -1,15 +1,15 @@
----
-title: Le Wagon - Middleman
----
-
-<div id="home">
-  <div class="home-content">
-    <%= image_tag "logo.png", width: "200" %>
-    <p>
-      Middleman is now running!
-    </p>
-    <p class="about">
-      <%= link_to "More about this template", "about.html" %>
-    </p>
+<% %w(london paris rio barcelona shanghai).each do |city| %>
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-6 col-md-3">
+        <div class="card" style="background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('https://kitt.lewagon.com/placeholder/cities/<%= city %>');">
+          <div class="card-description">
+            <h2>Le Wagon <%= city.capitalize %></h2>
+          </div>
+          <img class="card-user" src="https://avatars3.githubusercontent.com/u/43155634?v=4">
+          <a class="card-link" href="#" ></a>
+        </div>
+      </div>
+      <% end %>
+    </div>
   </div>
-</div>
