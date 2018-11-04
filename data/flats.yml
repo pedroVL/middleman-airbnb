@@ -1,0 +1,149 @@
+joe:
+  name: "Pedro's shitty flat"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+  Accommodates: 2
+  Bathrooms: 1
+  Bed type: Real Bed
+  Bedrooms: 1
+  Beds: 1
+  Property type: Apartment
+  Room type: Entire home/apt
+
+john:
+  name: "Pedro's shitty flat"
+  description: "Small flat in Rio"
+  city_name: "Rio, Brazil"
+  city_slug: "rio"
+  wifi: true
+  rating: 3
+  Accommodates: 2
+  Bathrooms: 1
+  Bed type: Real Bed
+  Bedrooms: 1
+  Beds: 1
+  Property type: Apartment
+  Room type: Entire home/apt
+
+mary:
+  name: "Pedro's shitty flat"
+  description: "Nice flat in Barcelona"
+  city_name: "Barcelona, Spain"
+  city_slug: "barcelona"
+  wifi: true
+  rating: 5
+  Accommodates: 2
+  Bathrooms: 1
+  Bed type: Real Bed
+  Bedrooms: 1
+  Beds: 1
+  Property type: Apartment
+  Room type: Entire home/apt
+
+alex:
+  name: "Pedro's shitty flat"
+  description: "Nice flat in Shanghai"
+  city_name: "Shanghai, China"
+  city_slug: "shanghai"
+  wifi: true
+  rating: 5
+  Accommodates: 2
+  Bathrooms: 1
+  Bed type: Real Bed
+  Bedrooms: 1
+  Beds: 1
+  Property type: Apartment
+  Room type: Entire home/apt
+
+gemma:
+  name: "Pedro's shitty flat"
+  description: "Nice flat in Tel-Aviv"
+  city_name: "Tel-Aviv, Israel"
+  city_slug: "tel-aviv"
+  wifi: true
+  rating: 2
+  Accommodates: 2
+  Bathrooms: 1
+  Bed type: Real Bed
+  Bedrooms: 1
+  Beds: 1
+  Property type: Apartment
+  Room type: Entire home/apt
+
+pedro:
+  name: "Pedro's shitty flat"
+  description: "Nice flat in Copenhaguen"
+  city_name: "Copenhaguen, Denmark"
+  city_slug: "copenhaguen"
+  wifi: true
+  rating: 5
+  Accommodates: 2
+  Bathrooms: 1
+  Bed type: Real Bed
+  Bedrooms: 1
+  Beds: 1
+  Property type: Apartment
+  Room type: Entire home/apt
+
+jose:
+  name: "Pedro's shitty flat"
+  description: "Charming room in Nantes"
+  city_name: "Nantes, France"
+  city_slug: "nantes"
+  wifi: false
+  rating: 4
+  Accommodates: 2
+  Bathrooms: 1
+  Bed type: Real Bed
+  Bedrooms: 1
+  Beds: 1
+  Property type: Apartment
+  Room type: Entire home/apt
+
+carmen:
+  name: "Pedro's shitty flat"
+  description: "Charming room in Marseille"
+  city_name: "Marseille, France"
+  city_slug: "marseille"
+  wifi: true
+  rating: 4
+  Accommodates: 2
+  Bathrooms: 1
+  Bed type: Real Bed
+  Bedrooms: 1
+  Beds: 1
+  Property type: Apartment
+  Room type: Entire home/apt
+
+andrea:
+  name: "Pedro's shitty flat"
+  description: "Charming room in Milan"
+  city_name: "Milan, Italy"
+  city_slug: "milan"
+  wifi: true
+  rating: 4
+  Accommodates: 2
+  Bathrooms: 1
+  Bed type: Real Bed
+  Bedrooms: 1
+  Beds: 1
+  Property type: Apartment
+  Room type: Entire home/apt
+
+ben:
+  name: "Pedro's shitty flat"
+  description: "Charming room in Lyon"
+  city_name: "Lyon, France"
+  city_slug: "lyon"
+  wifi: true
+  rating: 2
+  Accommodates: 2
+  Bathrooms: 1
+  Bed type: Real Bed
+  Bedrooms: 1
+  Beds: 1
+  Property type: Apartment
+  Room type: Entire home/apt
